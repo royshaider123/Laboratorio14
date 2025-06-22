@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Lab14-Publish\Lab05-RoyChuchullo.exe
+C:\Users\Usuario\Desktop\Lab14-Publish\appsettings.Development.json
+C:\Users\Usuario\Desktop\Lab14-Publish\appsettings.json
+C:\Users\Usuario\Desktop\Lab14-Publish\Lab05-RoyChuchullo.dll
+C:\Users\Usuario\Desktop\Lab14-Publish\Lab05-RoyChuchullo.runtimeconfig.json
+C:\Users\Usuario\Desktop\Lab14-Publish\Lab05-RoyChuchullo.pdb
+C:\Users\Usuario\Desktop\Lab14-Publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\Lab14-Publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Desktop\Lab14-Publish\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Desktop\Lab14-Publish\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\Lab14-Publish\Npgsql.dll
+C:\Users\Usuario\Desktop\Lab14-Publish\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Usuario\Desktop\Lab14-Publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\Lab14-Publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\Lab14-Publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\Lab14-Publish\Lab05-RoyChuchullo.deps.json
